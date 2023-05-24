@@ -47,6 +47,7 @@ public class CalculateTest {
 		int a = 111;
 		int b = 9;
 			
+		
 		Calculate cal = new Calculate();
 		int actual = cal.add(a, b); 
 			 
